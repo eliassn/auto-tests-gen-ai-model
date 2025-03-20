@@ -8,7 +8,7 @@ venv/
 
 .ipynb_checkpoints/
 
-model/
+model/gpt2-cypress
 *.pt
 *.bin
 *.ckpt
